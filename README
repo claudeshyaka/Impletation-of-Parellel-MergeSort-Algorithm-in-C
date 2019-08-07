@@ -1,4 +1,4 @@
-Starter code for parallel implementation of merge sort.
+## Parallel implementation of merge sort.
 
 Files included:
 main.cpp: the main routine that will invoke the two different implementations 
