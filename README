@@ -1,6 +1,6 @@
-Starter code for parallel implementation of merge sort.
+### parallel implementation of merge sort.
 
-Files included:
+### Files included:
 main.cpp: the main routine that will invoke the two different implementations 
   of sort and check their results;
 ktiming.cpp/.h: code for time-measurement;
