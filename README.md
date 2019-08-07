@@ -10,4 +10,3 @@ pthread_sort.cpp: where the pthreaded mergesort implementation is implemented;
 qsub.sh: example script for job submittion; and
 Makefile
 ```
-```
